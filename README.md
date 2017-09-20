@@ -1,4 +1,11 @@
 # ArtificialDoctor
-There are about 10,000 known human diseases, yet human doctors are only able to recall a fraction of them at any given moment. As many as 40,500 patients die annually in an ICU in the U.S. as a result of mis-diagnosis. In this case, the activity of doctor is successfully imitated, even including the ability to give describe about the diseases.
-OUR MISSION
-Provide users to find their disease without consulting doctor.Provide remedies without side effects to their disease or abnormality.Provide user to find various probability of diseases that he may have for that particular symptom.
+There are around 10,000 known human diseases, yet human specialists are just ready to review a small amount of them at any given minute. Upwards of 40,500 patients bite the dust every year in an ICU in the U.S. because of mis-analysis. For this situation, the movement of specialist is effectively imitated, notwithstanding including the capacity to give portray about the maladies. 
+
+OUR MISSION 
+
+Give clients to discover their malady without counseling doctor.Provide cures without reactions to their illness or abnormality.Provide client to discover different likelihood of sicknesses that he may have for that specific side effect. 
+
+To run this site do visit this site. Connection is said beneath.
+https://artificialdoctor.000webhostapp.com/
+
+Any inquiries you can reach me at smohankrishna95@gmail.com
