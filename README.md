@@ -1,5 +1,5 @@
 # ArtificialDoctor
-this is my individual project in 4th year engineering .There are around 10,000 known human diseases, yet human specialists are just ready to review a small amount of them at any given minute. Upwards of 40,500 patients bite the dust every year in an ICU in the U.S. because of mis-analysis. For this situation, the movement of specialist is effectively imitated, notwithstanding including the capacity to give portray about the maladies. 
+Its my individual project in my 4th year of engineering .There are around 10,000 known human diseases, yet human specialists are just ready to review a small amount of them at any given minute. Upwards of 40,500 patients bite the dust every year in an ICU in the U.S. because of mis-analysis. For this situation, the movement of specialist is effectively imitated, notwithstanding including the capacity to give portray about the maladies. 
 
 MY MISSION 
 
