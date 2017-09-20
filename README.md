@@ -9,3 +9,5 @@ To run this site do visit this site. Connection is said beneath.
 https://artificialdoctor.000webhostapp.com/
 
 Any inquiries you can reach me at smohankrishna95@gmail.com
+
+>© 2017 Artificial Doctor brought to you by Mohan Krishna Sunkara.
